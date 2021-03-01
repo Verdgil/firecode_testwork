@@ -1,0 +1,7 @@
+.idea
+__pycache__
+
+.python-version
+
+poetry.lock
+firecode/settings.py
